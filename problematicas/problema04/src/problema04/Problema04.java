@@ -6,7 +6,7 @@ package problema04;
 
 /**
  *
- * @author cbhas y bleaitenti
+ * @author cbhas
  */
 public class Problema04 {
 
